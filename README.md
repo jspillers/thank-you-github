@@ -121,3 +121,4 @@ Signed,
 - Christian Fei ([@christian-fei](https://github.com/christian-fei)), Developer at [XPeppers](http://xpeppers.com/)
 - Martín Ciparelli ([@mciparelli](https://github.com/mciparelli)), OSS pusher and Front End enthusiast
 - Chaouki Dhib ([@chaodhib](https://github.com/chaodhib)), Developer
+- Jarrod Spillers ([@jspillers](https://github.com/jspillers)), Full Stack Developer
